@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+*.dxf
+*.png
+!sample/
+.venv/
+venv/
